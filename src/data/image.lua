@@ -7,8 +7,9 @@
 --
 local IMAGE_NAME = {
     INDEX = 'index.png',
-    BG='wow/media-screenshot-3.jpg',
-
+    BG = 'wow/media-screenshot-3.jpg',
+    PROGRESS_FRONT_RED = 'progress/time_bars-hd.png',
+    PROGRESS_BACKGROUND = 'progress/time_slot-hd.png',
 
 }
 
