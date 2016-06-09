@@ -76,6 +76,8 @@ function MainScene:UpdateGame()
         if i == 100 then
             scheduler:unscheduleScriptEntry(scheduleEntry)
 
+            local app = self:getApp()
+            app:enterScene('SelectScene')
             --跳转场景
         end
     end,0.05,false)

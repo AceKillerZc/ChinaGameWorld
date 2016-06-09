@@ -9,6 +9,16 @@ local MainHeadLayer = class('MainHeadLayer', function()
     return cc.Layer:create()
 end)
 
+MainHeadLayer.parentNode = nil
+
+
+function MainHeadLayer:setParent(parentNode)
+    self.parentNode  = parentNode
+end
+
+function MainHeadLayer:getParent()
+    return self.parentNode
+end
 
 
 return MainHeadLayer
