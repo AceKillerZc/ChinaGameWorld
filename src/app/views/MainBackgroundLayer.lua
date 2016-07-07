@@ -11,7 +11,7 @@ local MainBackgroundLayer = class('MainBackgroundLayer', function()
 end)
 
 MainBackgroundLayer.parentNode = nil
-
+MainBackgroundLayer.bg = nil
 function MainBackgroundLayer:setParent(parentNode)
     self.parentNode  = parentNode
 end
@@ -25,10 +25,21 @@ function MainBackgroundLayer:ctor()
     local IMG = require("data.image")
 
     local background = display.newSprite(IMG.BG)
+
     background:move(display.center):addTo(self)
 
-
+    self.bg = background
+    self.bg:setTag(0)
 end
 
+--[[
+--bgSprite 选项sprie 对应背景
+ ]]
+function MainBackgroundLayer:refresh(bgSprite)
+    self:removeChild(self.bg)
+    bgSprite:move(display.center):addTo(self)
+    self.bg = bgSprite
+    self.bg:setTag(0)
+end
 
 return MainBackgroundLayer

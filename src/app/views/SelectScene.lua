@@ -42,5 +42,8 @@ function SelectScene:onCreate()
     self:addChild(self.MainListLayer)
 end
 
+function SelectScene:getBackground()
+    return self.MainBackgroundLayer
+end
 
 return SelectScene
