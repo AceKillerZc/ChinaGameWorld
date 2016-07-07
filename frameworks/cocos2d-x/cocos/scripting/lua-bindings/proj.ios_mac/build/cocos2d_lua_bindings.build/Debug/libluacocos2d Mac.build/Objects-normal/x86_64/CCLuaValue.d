@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.cpp \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../scripting/lua-bindings/manual/CCLuaValue.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/lua.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/luaconf.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccTypes.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCGeometry.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformMacros.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccConfig.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformConfig.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformDefine.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCPlatformDefine-mac.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccMacros.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCConsole.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCRef.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCStdC.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCStdC-mac.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccRandom.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMath.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMathBase.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.inl \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.inl \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.inl \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.inl \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.inl \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCGL.h \
+  /Users/zhangcheng/IdeaProjects/ChinaGameWorld/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCGL-mac.h
